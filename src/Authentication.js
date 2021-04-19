@@ -31,7 +31,6 @@ import {
   import { green } from '@material-ui/core/colors';
   import{useFormik} from 'formik';
   import * as yup from 'yup';
-  import Table1 from './Table';
   import { withRouter } from 'react-router';
  
  
